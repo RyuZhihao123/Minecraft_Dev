@@ -6,7 +6,7 @@
 </p>
 
 
-🔥 **This repository is still under preparation. I will complete it after my recent AAAI submission (due 1st Augest).** 
+🔥 **This page is just created. I will complete the repository after my AAAI submission (due 1st Augest).** 
 
 If you're interested, I welcome any potential collaration and let's make this game more functional and playful together!
 
